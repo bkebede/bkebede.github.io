@@ -1,32 +1,12 @@
-##  to GitHub Pages
+##  About Me
 
-You can use the [editor on GitHub](https://github.com/bkebede/bkebede.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Bemnet Kebede. I'm pursuing a career in a specialized field in Information Technology, but I'm not yet certain what field that will be. I have a background in economics, which is what I studied at Sac State but I am trying to transition to IT. So far, my college experience has been good. 
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
