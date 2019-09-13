@@ -2,9 +2,11 @@
 
 My name is Bemnet Kebede. I'm pursuing a career in a specialized field in Information Technology, but I'm not yet certain what field that will be. I have a background in economics, which is what I studied at Sac State but I am trying to transition to IT. So far, my college experience has been good. 
 
-### Markdown
+I don't have much computer experience, I just started taking IT classes this past summer so it's minimal. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### IT 75 (Python)
+
+I'm takin this class to see whether I enjoy the concept of programming and want to pursue that as a career path. I think being easily frustrated could lead me astray in this class, because it seems easy to get annoyed when your code is not working. I just have to understand that persistence is key and to keep at it. 
 
 
 
