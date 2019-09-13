@@ -8,7 +8,11 @@ I don't have much computer experience, I just started taking IT classes this pas
 
 I'm takin this class to see whether I enjoy the concept of programming and want to pursue that as a career path. I think being easily frustrated could lead me astray in this class, because it seems easy to get annoyed when your code is not working. I just have to understand that persistence is key and to keep at it. 
 
+Sometimes you want numbered lists:
 
+1. One
+2. Two
+3. Three
 
 ### Jekyll Themes
 
