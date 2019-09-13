@@ -29,6 +29,8 @@ I was born in Ethiopia, moved to California at 6 years of age but I then graduat
 
 #### The Most Important thing in my Life
 
-My family. 
+As my parents said early in my life:
+> Family is always there in the end
+> so cherish it
 
 
