@@ -25,7 +25,7 @@ I'm taking this class to see whether I enjoy the concept of programming and want
 
 #### Something Interesting About Me
 
-I was born in Addis Ababa, Ethiopia. 
+I was born in Ethiopia, moved to California at 6 years of age but I then graduated from International School of Kenya in Nairobi, Kenya.
 
 #### The Most Important thing in my Life
 
