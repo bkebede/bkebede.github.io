@@ -33,8 +33,8 @@ As my parents said early in my life:
 > Family is always there in the end
 > so cherish it
 
+### Reflection Pages
 
-###[Unit 1 Page](https://bkebede.github.io/Unit-1/)
+[Unit 1 Page](https://bkebede.github.io/Unit-1/)
 
-
-###[Unit 2 Page](https://bkebede.github.io/Unit-2/)
+[Unit 2 Page](https://bkebede.github.io/Unit-2/)
